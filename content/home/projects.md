@@ -3,10 +3,10 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "Links to code and report repositories in github."
 
 [content]
   # Page type to display. E.g. project.
@@ -21,17 +21,30 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
-  
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
-  
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+[[content.filter_button]]
+    name = "All"
+    tag = "*"
+
+[[content.filter_button]]
+    name = "Machine Learning Classification"
+    tag = "Classification"
+
+[[content.filter_button]]
+    name = "Recommendation Systems"
+    tag = "Recommendation System"
+
+[[content.filter_button]]
+    name = "User Insights"
+    tag = "User Insights"
+
+[[content.filter_button]]
+    name = "Capstone Projects"
+    tag = "Capstone Project"
+
+[[content.filter_button]]
+    name = "Mini-Projects"
+    tag = "Mini-Project"
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
