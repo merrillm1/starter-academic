@@ -76,4 +76,4 @@ highlight_name: false
 
 As a data scientist I’ve created prediction algorithms for the hotels in Portugal, identified the greatest contributing factors to rider churn rates for a cab company and developed a recommendation engine for an e-commerce site in Brazil. I’ve deployed my work in Streamlit apps, R Shiny dashboards and in Docker containers. Beyond my work, what sets me apart is my ability to translate results into compelling data stories that drive organizational change. 
 
-Links to my work are below, feel free to reach out to me with questions, freelance work or to pair up on a project. {{% staticref "files/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+Links to my work are below, feel free to reach out to me with questions, freelance work or to pair up on a project. {{% staticref "files/cv.pdf" "newtab" %}}Download my Resume{{% /staticref %}}
