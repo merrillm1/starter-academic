@@ -45,6 +45,9 @@ subtitle = "Links to code and report repositories in github."
     name = "Mini-Projects"
     tag = "Mini-Project"
 
+[[content.filter_button]]
+    name = "Data Visualization"
+    tag = "Data Visualization"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
