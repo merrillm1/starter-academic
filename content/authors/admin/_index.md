@@ -14,8 +14,8 @@ role: Data Scientist
 
 # Organizations/Affiliations
 #organizations:
-#- name: Springboard Graduate
- # url: "https://www.springboard.com/"
+- name: Fellowship.ai
+ # url: "http://fellowship.ai/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Deep Learning, Rethinking Education with AI
