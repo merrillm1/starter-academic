@@ -21,10 +21,9 @@ role: Data Scientist
 bio: My research interests include Deep Learning, Rethinking Education with AI
 
 interests:
-- Data Science
-- Machine Learning
-- Deep Learning
-- Data Story Telling
+- Machine Learning for Good
+- Rethinking Education with AI
+- Compelling Data Stories
 
 education:
   courses:
@@ -74,6 +73,6 @@ highlight_name: false
 # - Visitors
 ---
 
-As a data scientist I’ve created prediction algorithms for hotels in Portugal, identified the greatest contributing factors to rider churn rates for a cab company and developed a recommendation engine for an e-commerce site in Brazil. I’ve deployed my work in Streamlit apps, R Shiny dashboards and in Docker containers. Beyond my work, what sets me apart is my ability to translate results into compelling data stories that drive organizational change. 
+As a data scientist with Fellowship.ai I’ve worked on a range of projects, from CTOR prediction for email banners to customer segmentation analysis and churn prediction. I have experience deploying workable models into Streamlit apps, R Shiny dashboards and in Docker containers for exploration and practical use. Beyond my programming work, what sets me apart is my love for telling compelling data stories that drive organizational change.
 
 Links to my work are below, feel free to reach out to me with questions, freelance work or to pair up on a project. {{% staticref "files/cv.pdf" "newtab" %}}Download my Resume{{% /staticref %}}
