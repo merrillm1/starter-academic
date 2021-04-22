@@ -13,7 +13,7 @@ superuser: true
 role: Data Scientist
 
 # Organizations/Affiliations
-#organizations:
+organizations:
 - name: Fellowship.ai
 # url: "http://fellowship.ai/"
 
