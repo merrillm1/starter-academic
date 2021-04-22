@@ -17,20 +17,37 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Machine Learning Fellow"
+  company = "Fellowship.ai"
+  company_url = ""
+  location = "San Francisco, California"
+  date_start = "2021-01-20"
+  date_end = "Present"
+  description = """Led as scrum master for a team of 10 data scientists, spearheading projects in CTOR optimization for email campaigns, churn prediction and age segmentation.
+  
+  * Implemented agile software methods to solve problems in campaign image optimization, churn prediction and customer segmentation for Dockers.
+  * Lead as scrum master for a team of 10 data scientists, reporting daily progress and presenting weekly slide decks to the founder.
+  * Created data pipelines to extract and transform 100+ features for improving CTOR prediction using image filtering, text extraction and contour detection.
+  * Improved CTOR prediction accuracy by over 30% compared to baseline models and customer age prediction by 20% using oversampling methods.
+  * Finalized Streamlit app for campaign CTOR prediction and slide decks for customer segmentation and reported results to key stakeholders.
+   """
+  
 [[experience]]
   title = "Data Science Student"
   company = "Springboard"
   company_url = ""
   location = "San Francisco, California"
-  date_start = "2019-11-01"
-  date_end = "2020-10-01"
+  date_start = "2020-01-20"
+  date_end = "2020-12-31"
   description = """Completed 600+ hours of hands-on curriculum, with 1:1 industry expert mentor oversight, and completion of 2 in-depth projects.
   
   * Skills Learned: Python, R, SQL, Machine Learning (supervised and unsupervised), Data Wrangling, Exploratory Data Analysis, Feature Engineering, Data Visualization, Predictive Modeling, Time Series Analysis, Classification, Regression and Clustering.
   """
 
 [[experience]]
-  title = "High School Mathematics Teacher"
+  title = "Math Department Chair"
   company = "SFUSD"
   company_url = ""
   location = "San Francisco, California"
