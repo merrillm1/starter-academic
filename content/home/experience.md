@@ -29,9 +29,7 @@ date_format = "Jan 2006"
   
   * Implemented agile software methods to solve problems in campaign image optimization, churn prediction and customer segmentation for Dockers.
   * Lead as scrum master for a team of 10 data scientists, reporting daily progress and presenting weekly slide decks to the founder.
-  * Created data pipelines to extract and transform 100+ features for improving CTOR prediction using image filtering, text extraction and contour detection.
   * Improved CTOR prediction accuracy by over 30% compared to baseline models and customer age prediction by 20% using oversampling methods.
-  * Finalized Streamlit app for campaign CTOR prediction and slide decks for customer segmentation and reported results to key stakeholders.
    """
   
 [[experience]]
@@ -58,21 +56,6 @@ date_format = "Jan 2006"
   * Created a data-driven culture among departments to influence changes to school-wide pedagogy.
   * Led a cross-functional initiative to increase participation in tutoring programs, leading to an 11% increase in assessment scores.
   * Conducted 4 semesters of school wide PD sessions with a team of colleagues, communicating monthly results of research and experimental data collection.
-  """
-
-[[experience]]
-  title = "Research Assistant"
-  company = "UC Berkeley"
-  company_url = ""
-  location = "Berkeley, California"
-  date_start = "2009-05-01"
-  date_end = "2010-06-01"
-  description = """Selected to participate in classifying one of few known binary protostars in our galaxy.
-  
-  * Cleaned radio interferometric data to construct, display and analyze astronomical images of possible protostar to determine an accurate classification (binary or singular).
-  * VLA 7mm continuum map revealed a single compact source of emission, not meeting the approximate 0.08 sun mass required to meet assumptions of a seperate optically thin disk emission.
-  * Prepared and presented conclusions at the summer 2010 American Astronomical Society Meeting (AAS).
-  
   """
 
 +++
