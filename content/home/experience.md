@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "San Francisco, California"
   date_start = "2021-01-20"
-  date_end = "Present"
+  date_end = "2021-04-30"
   description = """Led as scrum master for a team of 10 data scientists, spearheading projects in CTOR optimization for email campaigns, churn prediction and age segmentation.
   
   * Implemented agile software methods to solve problems in campaign image optimization, churn prediction and customer segmentation for Dockers.
