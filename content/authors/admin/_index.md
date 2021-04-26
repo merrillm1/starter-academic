@@ -72,7 +72,8 @@ highlight_name: false
 # - Researchers
 # - Visitors
 ---
+I specialize in helping others envision the complexities of data so progress can be made.
 
-As a data scientist with Fellowship.ai I’ve worked on a range of projects, from CTOR prediction for email banners to customer segmentation analysis and churn prediction. I have experience deploying workable models into Streamlit apps, R Shiny dashboards and in Docker containers for exploration and practical use. Beyond my programming work, what sets me apart is my love for telling compelling data stories that drive organizational change.
+As a data scientist with Fellowship.ai I worked on a range of projects, from CTOR prediction for email banners to customer segmentation analysis and churn prediction. I’ve also deployed workable models into Streamlit apps, R Shiny dashboards and Docker containers for exploration and practical use. Beyond my programming work, what sets me apart is my love for telling compelling data stories that bring clarity and drive decisions.
 
-Links to my work are below, feel free to reach out to me with questions, freelance work or to pair up on a project. {{% staticref "files/cv.pdf" "newtab" %}}Download my Resume{{% /staticref %}}
+Links to my personal projects are below, feel free to reach out to me with employment opportunities, freelance work or to pair up on an interesting project.
